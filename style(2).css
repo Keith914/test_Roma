@@ -1,5 +1,18 @@
 body{
-    background-color: #FA8BFF;
-    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
-    ;
+background-image: url(https://i.ytimg.com/vi/AV8pqO79Z4s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD4oL47bm8K7uN38gieYciE0Q9XXg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+
+h1{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 100px;
+font-style: normal;
+color: #000000; /* Цвет текста */
+-webkit-text-stroke: 5px #d6eff0; /* Толщина и цвет обводки */
+
+ 
 }

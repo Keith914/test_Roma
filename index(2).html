@@ -4,9 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ДЛЯ РОМОЧКИ</title>
-    <link rel="stylesheet" href="test_style.css">
+    <link rel="stylesheet" href="style(2).css">
+  <style>
+        @keyframes blink {
+            0% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .blinking-text {
+            text-align: center;
+            margin-top: 20%;
+            font-size: 24px;
+            color: green;
+            animation: blink 1s infinite;
+        }
+    </style>
+
 </head>
+
 <body>
-    
+
+     <div class="blinking-text">
+        <header><h1>УЗНАЙ, КАКОЙ ТЫ КОТИК</h1></header>
+    </div>
+
 </body>
-</html>
+    
