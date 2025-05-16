@@ -1,8 +1,9 @@
 body{
-background-image: url(https://i.ytimg.com/vi/AV8pqO79Z4s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD4oL47bm8K7uN38gieYciE0Q9XXg);
+background-image: url(vCFp4sWn1wg.jpg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
+background-position: -420px -10px;
 
 }
 
@@ -14,5 +15,14 @@ font-style: normal;
 color: #000000; /* Цвет текста */
 -webkit-text-stroke: 5px #d6eff0; /* Толщина и цвет обводки */
 
- 
+}
+.button-link{
+    text-decoration: none;
+    
+    }
+
+
+div{
+position: relative;
+    top: 200px;
 }
